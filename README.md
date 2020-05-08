@@ -1,0 +1,1 @@
+replace ```APP_ID``` and ```APP_SECRET``` with your own pairs in ```settings/__init__.py```.
